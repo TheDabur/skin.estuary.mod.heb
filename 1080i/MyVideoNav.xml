@@ -83,7 +83,7 @@
                     <width>429</width>
                     <height>307</height>
                     <font>font12</font>
-                    <align>justify</align>
+                    <align>right</align>
                     <autoscroll delay="10000" time="4000" repeat="10000">Skin.HasSetting(autoscroll)</autoscroll>
                     <visible>Control.IsVisible(54)</visible>
                     <textcolor>$VAR[SkinColorVar]</textcolor>
@@ -119,7 +119,7 @@
                     <width>429</width>
                     <height>368</height>
                     <font>font12</font>
-                    <align>justify</align>
+                    <align>right</align>
                     <visible>!Control.IsVisible(54)</visible>
                     <label>$VAR[PlotSpoilerVar]</label>
                     <textcolor>$VAR[SkinColorVar]</textcolor>
@@ -132,7 +132,7 @@
                     <width>429</width>
                     <height>368</height>
                     <font>font12</font>
-                    <align>justify</align>
+                    <align>right</align>
                     <visible>!Control.IsVisible(54)</visible>
                     <label>$VAR[PlotSpoilerVar]</label>
                     <textcolor>$VAR[SkinColorVar]</textcolor>
